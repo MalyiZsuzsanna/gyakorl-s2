@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+  .featured{
+    max-width: 800px;
+    margin: auto;
+    border: 1px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    background:  linear-gradient(0deg, rgba(52,152,219,1) 0%, rgba(46,204,113,1) 100%);
+  }
+.footer{
+  text-align: center;
+  border-top: 1px solid red;
+  margin-top: 10px;
+}
