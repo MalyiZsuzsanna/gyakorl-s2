@@ -1,4 +1,4 @@
 # Mályi Zsuzsanna
 
-## [Products](https://github.com/MalyiZsuzsanna/gyakorl-s2)
+## https://github.com/MalyiZsuzsanna/gyakorl-s2
 
